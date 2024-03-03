@@ -1,6 +1,6 @@
 # KPMG-March-2024
 
-[Lab Access]Access Lab here](https://cloudthat.learnondemand.net/)
+[Lab Access](https://cloudthat.learnondemand.net/)
 
 ## Day1
 Develop natural language processing solutions with Azure AI Services
