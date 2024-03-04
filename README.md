@@ -12,8 +12,12 @@ Develop natural language processing solutions with Azure AI Services
  1. [Numpy](https://github.com/dravidshankar/KPMG-March-2024/blob/main/Numpy_Introduction.ipynb)
  2. [Pandas](https://github.com/dravidshankar/KPMG-March-2024/blob/main/Pandas_Introduction.ipynb)
 
- 
 ## Day2
+
+1. [Build a question answering solution](https://learn.microsoft.com/en-us/training/modules/create-question-answer-solution-ai-language/)
+2. [Build a conversational language understanding model](https://learn.microsoft.com/en-us/training/modules/build-language-understanding-model/)
+   
+## Day3
 
 Develop Generative AI solutions with Azure OpenAI Service
 
