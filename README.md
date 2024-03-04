@@ -13,3 +13,6 @@ Develop natural language processing solutions with Azure AI Services
  2. [Pandas](https://github.com/dravidshankar/KPMG-March-2024/blob/main/Pandas_Introduction.ipynb)
 
  
+##Day2
+Develop Generative AI solutions with Azure OpenAI Service
+[Learning Materils](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
