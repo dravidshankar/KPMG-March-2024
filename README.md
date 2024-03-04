@@ -25,3 +25,11 @@ Develop Generative AI solutions with Azure OpenAI Service
 1. [Get started with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/get-started-openai/)
 2. [Build natural language solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/build-language-solution-azure-openai/)
 3. [Apply prompt engineering with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/)
+
+## Day4
+
+Embeddings, Vector Stores,  and Large Language Models 
+
+Implement knowledge mining with Azure AI Search
+
+[Create an Azure AI Search solution](https://learn.microsoft.com/en-us/training/modules/create-azure-cognitive-search-solution/)
