@@ -28,7 +28,7 @@
 
 ## Day4
 
-### Embeddings, Vector Stores,  and Large Language Models 
+### Embeddings, Vector Stores,  and Large Language Models
 
 ### Implement knowledge mining with Azure AI Search
 
