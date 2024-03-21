@@ -29,6 +29,7 @@
 ## Day4
 
 ### Embeddings, Vector Stores,  and Large Language Models
+[Create Embeddings - Example](https://github.com/dravidshankar/2020-sklearn-sprint/blob/master/Embeddings.ipynb)
 
 ### Implement knowledge mining with Azure AI Search
 
